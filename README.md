@@ -1,4 +1,9 @@
 # CAHMSUDO
-sudo es para usuarios root y debe darle permisos de ejecucion
-y debe moverlo a la carpeta bin y applets si es necesario...!!
-para su ejecucion ejecute sudo su
+sudo es para usuarios root para instalarlo ejecute 
+sh install.sh
+en caso de que le ocacione algun error solo dele permisos
+de ejcucion (chmod +x sudo) y muevelo a la carpeta /bin
+y ala carpeta applets....
+Contactme 
+mi canal de youtube
+https://www.youtube.com/channel/UCi_cTkFHOlo8IuiZp5i58bQ
